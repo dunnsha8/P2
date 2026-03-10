@@ -1,2 +1,4 @@
 #page
 #comment
+
+hello = "test"
